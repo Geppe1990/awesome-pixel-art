@@ -42,6 +42,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Walking animation cycle in games](https://finalbossblues.com/walk-cycles-p1/)
 - [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
+### Playlists
+- [Pixel Art 101](https://www.youtube.com/playlist?list=PLmac3HPrav-9UWt-ahViIZxpyQxJ2wPSH)
+
 ## Books
 - [Pixel logic](https://gumroad.com/l/pixel-logic) - Pixel Logic is an in-depth pixel art tutorial book.
 - [Make Your Own Pixel Art](https://nostarch.com/pixelart) - Walks you step-by-step through the available tools, pixel art techniques, the importance of shapes, colors, shading, and how to turn your art into animation.
