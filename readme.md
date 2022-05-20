@@ -31,6 +31,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Outline basics](http://samkeddy.com/pixel-art-outlines/)
 - [Outline colors](http://samkeddy.com/pixel-art-outlines-part-2-using-color/)
 - [Getting started from scratch with Aseprite](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab)
+- [Pixel art where to start](https://lospec.com/articles/pixel-art-where-to-start/)
 
 ### Color
 - [Creating a color palette](https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/)
